@@ -1,0 +1,28 @@
+{
+  "name": "crescendo-frontend-quickstart",
+  "version": "1.0.0",
+  "description": "A basic frontend sandbox",
+  "main": "index.js",
+  "author": "Ping Wong <tp@crescendohealth.co>",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "random-words": "^1.1.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.7",
+    "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.3",
+    "express": "^4.17.2",
+    "html-webpack-plugin": "^5.5.0",
+    "open": "^8.4.0",
+    "source-map-loader": "^3.0.1",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.7.2",
+    "webpack-hot-middleware": "^2.25.1"
+  }
+}
